@@ -1,3 +1,11 @@
+- name: Assi, Maram
+  visible: true
+  img: http://www.maram.ca/img/2.jpg
+  university: Université du Québec à Montréal
+  github: maramassi
+  url: http://www.maram.ca
+  keywords: Software Engineering, Software Evolution & Maintenance, Data Mining, Software Analytics, Applications of Machine Learning
+
 - name: Schiedermeier, Maximilian
   visible: true
   img: https://m5c.github.io/assets/img/max-compr.jpg
@@ -49,7 +57,7 @@
   keywords: model-based engineering, open source
 
 - name: Kienzle, Jörg
-  visible: true
+  visible: false
   img: https://djeminy.github.io/images/profile.png
   university: McGill University
   url: https://djeminy.github.io/
@@ -110,7 +118,7 @@
   url: https://www.etsmtl.ca/programmes-et-formations/corps-enseignant/gelboussaidi
   keywords: Software design, software migration, requirement engineering, model-driven engineering, safety-critical systems
 
-  name: Moha, Naouel
+- name: Moha, Naouel
   visible: true
   university: École de Technologie Supérieure (ÉTS)
   img: https://www.etsmtl.ca/uploads/_1100xAUTO_fit_center-center_70_none/P20201027-Moha-Naouel-001.jpg

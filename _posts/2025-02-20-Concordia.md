@@ -13,7 +13,7 @@ A meeting of the SEMTL community will be held on **Thursday, Feb 20th, 2025**, i
 
 ### Registration
 
-Please RSVP using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit?gid=1468282578#gid=1468282578).
+Please RSVP using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit?gid=1297457195#gid=1297457195).
 
 ### Program
 

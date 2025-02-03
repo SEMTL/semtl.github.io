@@ -6,6 +6,7 @@ tags: 		Concordia
 subtitle:  	2025-02-20, Morning
 category:   meeting
 event_date: 2025-02-20
+date:       2025-02-01
 ---
 
 A meeting of the SEMTL community will be held on **Thursday, Feb 20th, 2025**, in the morning. It will take place at **Concordia**.

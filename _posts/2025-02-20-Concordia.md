@@ -17,12 +17,12 @@ Please RSVP using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPu
 
 ### Program
 
-This edition of SEMTL will consist of presentations from new faculty and post-doctoral researchers, to highlight new voices in the community.
+This edition of SEMTL will consist of presentations from recently-hired faculty and post-doctoral researchers, to highlight new voices in the community.
 
 * 09:00 - 09:30:
   * Arrival
 * 09:30 - 10:00:
-  * [\[Cristiano Politowski\]](https://cpoli.live/) - Assistant Professor at Ontario Tech University
+  * [\[Diego Elias Costa\]](https://realiselab.github.io/teamInfo/diego) - Assistant Professor at Concordia University
 * 10:00 - 10:30:
   * [\[William Flageol\]](https://www.researchgate.net/profile/William-Flageol) - Assistant Professor at Université du Québec à Trois-Rivières (UQTR)
 * 10:30 - 11:00:

@@ -17,7 +17,7 @@ Please RSVP using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPu
 
 ### Program
 
-This edition of SEMTL will feature presentations from top software engineering researchers visiting Montréal before attending the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025).
+This edition of SEMTL will involve international software engineering researchers visiting Montréal before attending the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025).
 
 Confirmed speakers are [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) and [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en). Further speakers to be confirmed.
 

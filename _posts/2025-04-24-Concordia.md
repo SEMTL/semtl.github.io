@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      (Another) SEMTL Meeting at Concordia
+title:      SEMTL Meeting and Posters at Concordia
 author:     Yann-Gaël Guéhéneuc
 tags: 		[Concordia]
 subtitle:  	2025-04-24
@@ -9,7 +9,7 @@ event_date: 2025-04-24
 date:       2025-03-15
 ---
 
-A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025**. It will take place in the **ER Building (2155 Guy St), Concordia University**. Coffee and pastries will be available during the meeting.
+A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025, starting at 09:00**. It will take place in the **ER Building (2155 Guy St), Concordia University**. Coffee and pastries will be available during the meeting.
 
 ### Registration
 
@@ -17,9 +17,23 @@ Please RSVP using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPu
 
 ### Program
 
-This edition of SEMTL will involve international software engineering researchers visiting Montréal before attending the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025).
+This edition of SEMTL will involve a student poster session, and presentations by international software engineering researchers visiting Montréal before attending the [International Conference on Software Engineering](https://conf.researchr.org/home/icse-2025).
 
-Confirmed speakers are [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) and [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en). Further speakers to be confirmed.
+* 09:00 - Welcome, breakfast, setting up posters
+
+* 10-00 - [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) - Eindhoven University of Technology (TUE)
+
+* 10:45 - Coffee break
+
+* 11:00 - [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en) - Univ Rennes, CNRS, Inria, IRISA, IUF
+
+* 11:45 - Lunch + Posters
+
+* 13:30 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
+
+* 14:15 - Coffee break
+
+* 14:30 - Poster session
 
 ### Localisation
 

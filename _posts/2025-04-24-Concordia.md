@@ -21,7 +21,7 @@ This edition of SEMTL will involve a student poster session, and presentations b
 
 * 09:00 - Welcome, breakfast, setting up posters
 
-* 10-00 - [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) - Eindhoven University of Technology (TUE)
+* 10:00 - [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) - Eindhoven University of Technology (TUE)
 
 * 10:45 - Coffee break
 
@@ -34,6 +34,7 @@ This edition of SEMTL will involve a student poster session, and presentations b
 * 14:15 - Coffee break
 
 * 14:30 - Poster session
+    * [Meriem Ben Chaaben](https://meriembenchaaben.github.io/) - Domain Modeling Assistance with Large Language Models 
 
 ### Localisation
 

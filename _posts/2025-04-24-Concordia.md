@@ -9,7 +9,7 @@ event_date: 2025-04-24
 date:       2025-03-15
 ---
 
-A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025, starting at 09:00**. It will take place in the **ER Building (2155 Guy St), Concordia University**. Coffee and pastries will be available during the meeting.
+A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025, starting at 09:00**. It will take place in the **ER Building (2155 Guy St), Concordia University**. Coffee, pastries, and lunch will be available during the meeting.
 
 ### Registration
 
@@ -21,20 +21,24 @@ This edition of SEMTL will involve a student poster session, and presentations b
 
 * 09:00 - Welcome, breakfast, setting up posters
 
-* 10:00 - [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) - Eindhoven University of Technology (TUE)
+* 09:45 - [Michel Chaudron](https://scholar.google.com/citations?user=Y_0xou4AAAAJ&hl=en) - Eindhoven University of Technology (TUE)
 
-* 10:45 - Coffee break
+* 10:30 - Coffee break
 
 * 11:00 - [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en) - Univ Rennes, CNRS, Inria, IRISA, IUF
 
-* 11:45 - Lunch + Posters
+* 11:45 - Lunch and poster session
+  * [Sikandar Ejaz](https://sites.google.com/site/sikandarejaz1/home) - CityData: an IoT Middleware for Smart Cities
+  * [Imen Jaoua](https://www.linkedin.com/in/imen-jaoua-a727a6206/) - Combining Large Language Models with Static Analyzers for Code Review Generation
+  * [Meriem Ben Chaaben](https://meriembenchaaben.github.io/) - Domain Modeling Assistance with Large Language Models
 
-* 13:30 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
+* 13:15 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
 
-* 14:15 - Coffee break
+* 14:00 - Coffee break
 
-* 14:30 - Poster session
-    * [Meriem Ben Chaaben](https://meriembenchaaben.github.io/) - Domain Modeling Assistance with Large Language Models 
+* 14:30 - ICSE presentations
+  * [Mouna Dhaoudi](http://www-ens.iro.umontreal.ca/~dhaouadm/) - CoMRAT: Commit Message Rationale Analysis Tool
+  * [Ikram Darif](https://www.linkedin.com/in/ikram-darif-729422180) - On the Automated Generation of UI for Template-based Requirements Specification
 
 ### Localisation
 

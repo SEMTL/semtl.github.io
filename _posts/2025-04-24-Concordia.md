@@ -29,8 +29,10 @@ This edition of SEMTL will involve a student poster session, and presentations b
 
 * 11:45 - Lunch and poster session
   * [Sikandar Ejaz](https://sites.google.com/site/sikandarejaz1/home) - CityData: an IoT Middleware for Smart Cities
+  * [Laurent Voisard](https://scholar.google.com/citations?user=P3QKPVcAAAAJ&hl=en) - Collision Systems Integration in ECS for Survivors-Like Games: A Case Study
   * [Imen Jaoua](https://www.linkedin.com/in/imen-jaoua-a727a6206/) - Combining Large Language Models with Static Analyzers for Code Review Generation
   * [Meriem Ben Chaaben](https://meriembenchaaben.github.io/) - Domain Modeling Assistance with Large Language Models
+  * [Minette Zongo Meyo](https://www.linkedin.com/in/zongomeyo/) - Software Maintenance Through AI-Driven Reconstruction (SMART)
 
 * 13:15 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
 

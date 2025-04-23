@@ -33,13 +33,14 @@ This edition of SEMTL will involve a student poster session, and presentations b
   * [Imen Jaoua](https://www.linkedin.com/in/imen-jaoua-a727a6206/) - Combining Large Language Models with Static Analyzers for Code Review Generation
   * [Meriem Ben Chaaben](https://meriembenchaaben.github.io/) - Domain Modeling Assistance with Large Language Models
   * [Minette Zongo Meyo](https://www.linkedin.com/in/zongomeyo/) - Software Maintenance Through AI-Driven Reconstruction (SMART)
+  * [Jean Baptiste Minani](https://scholar.google.ca/citations?user=BZ4pLE4AAAAJ&hl=en) - TGenAI: LLM-based Approach for Functional Test Cases Generation for IoT System
 
 * 13:15 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
 
 * 14:00 - Coffee break
 
 * 14:30 - ICSE presentations
-  * [Mouna Dhaoudi](http://www-ens.iro.umontreal.ca/~dhaouadm/) - CoMRAT: Commit Message Rationale Analysis Tool
+  * [Mouna Dhaouadi](https://www-labs.iro.umontreal.ca/~dhaouadm/) - CoMRAT: Commit Message Rationale Analysis Tool
   * [Ikram Darif](https://www.linkedin.com/in/ikram-darif-729422180) - On the Automated Generation of UI for Template-based Requirements Specification
 
 ### Localisation

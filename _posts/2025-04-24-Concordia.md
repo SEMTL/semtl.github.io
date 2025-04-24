@@ -9,7 +9,7 @@ event_date: 2025-04-24
 date:       2025-03-15
 ---
 
-A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025, starting at 09:00**. It will take place in the **ER Building (2155 Guy St), Concordia University**. Coffee, pastries, and lunch will be available during the meeting.
+A meeting of the SEMTL community will be held on **Thursday, Apr 24th, 2025, starting at 09:00**. It will take place in the **ER Building (2155 Guy St), Concordia University, 10th floor**. Coffee, pastries, and lunch will be available during the meeting.
 
 ### Registration
 

@@ -21,11 +21,11 @@ This edition of SEMTL will involve a student poster session, and presentations b
 
 * 09:00 - Welcome, breakfast, setting up posters
 
-* 09:45 - [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en) - Univ Rennes, CNRS, Inria, IRISA, IUF
+* 09:45 - [Filip Zamfirov, Felipe Xavier](https://software-analytics-visualisation-team.github.io/savant/) - Eindhoven University of Technology - an overview of SAVANT's work
 
 * 10:30 - Coffee break
 
-* 11:00 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
+* 11:00 - [Jean-Marc Jézéquel](https://scholar.google.com/citations?user=DZ5_Gw4AAAAJ&hl=en) - Univ Rennes, CNRS, Inria, IRISA, IUF
 
 * 11:45 - Lunch and poster session
   * [Sikandar Ejaz](https://sites.google.com/site/sikandarejaz1/home) - CityData: an IoT Middleware for Smart Cities
@@ -41,6 +41,7 @@ This edition of SEMTL will involve a student poster session, and presentations b
   * [Mouna Dhaouadi](https://www-labs.iro.umontreal.ca/~dhaouadm/) - CoMRAT: Commit Message Rationale Analysis Tool
   * [Ikram Darif](https://www.linkedin.com/in/ikram-darif-729422180) - On the Automated Generation of UI for Template-based Requirements Specification
 
+* 13:45 - [Rubén Saborido](https://scholar.google.ca/citations?hl=en&user=YWYibWMAAAAJ) - University of Málaga (Spain)
 
 ### Localisation
 

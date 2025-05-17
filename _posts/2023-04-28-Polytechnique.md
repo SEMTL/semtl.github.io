@@ -2,7 +2,7 @@
 layout:     post
 title:      SEMTL Meeting at Polytechnique
 author:     Mohammad Hamdaqa
-tags: 		Polytechnique
+tags: 		[Polytechnique]
 subtitle:  	Meeting at Polytechnique Montreal (28/04/23, 14:30)
 category:   meeting
 event_date: 2023-04-28

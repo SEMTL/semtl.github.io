@@ -2,7 +2,7 @@
 layout:     post
 title:      SEMTL Meeting at Concordia
 author:     Abdelwahab Hamou-Lhadj and Yann-Gael Gueheneuc
-tags: 		Concordia
+tags: 		[Concordia]
 subtitle:  	Meeting at Concordia (2023-06-14, 10:00)
 category:   meeting
 event_date: 2023-06-14

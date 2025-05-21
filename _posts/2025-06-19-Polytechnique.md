@@ -25,17 +25,22 @@ Note that you **do not have to register for SEMLA to attend SEMTL**.
 
 * 09:00 - _Welcome message_
 
-* 09:10 - Keynote
+* 09:05 - Keynote
 
-* 10:00 - [Lina Marsso](https://lina.marsso.net/)
+* 10:00 - [Lina Marsso](https://lina.marsso.net/) - Toward Trustworthy AI-Based Systems
+  * Abstract: In this talk, I will show how we can integrate formal methods with software engineering techniques to build trustworthy autonomous systems. My work and research vision have three objectives: (1) specify what trustworthiness means for autonomous systems; (2) validate systems against those specifications; and (3) enable self-adaptation so that systems evolve until they satisfy the specifications.
 
-* 10:30 - _Coffee break_
+* 10:25 - Lightning talks
 
-* 11:00 - Presentation
+* 10:40 - _Coffee break_
 
-* 11:30 - [Amine Mhedhbi](https://amine.io/)
+* 11:00 - [Lili Wei](https://liliweise.github.io/) - Software Engineering, Software Testing, Software Analysis, Android
 
-* 12:00 - Presentation
+* 11:25 - [Amine Mhedhbi](https://amine.io/) - Data and Information Management
+
+* 11:50 - [Nadia Nahar](https://scholar.google.com/citations?user=VuRv3BYAAAAJ&hl=en) - Software Engineering, SE4AI, LLM, HCI
+
+* 12:15 - Lightning talks
 
 * 12:30 - Social event
   * For the social event, we will eat lunch with all SEMLA attendees

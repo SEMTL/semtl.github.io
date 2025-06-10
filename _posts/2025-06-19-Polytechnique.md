@@ -41,7 +41,11 @@ Note that you **do not have to register for SEMLA to attend SEMTL**.
   * Affliation: McGill University
   * Abstract: Android apps hold secret strings of themselves such as cloud service credentials or encryption keys. Leakage of such secret strings can induce unprecedented consequences like monetary losses or leakage of user private information. In this talk, I will introduce our recent work on characterizing app secrets that are checked in the released app package files. Our study shows that exploitable app secrets can be harvested with nothing more than simple regular expressions.
 
-* 11:25 - [Amine Mhedhbi](https://amine.io/) - Data and Information Management
+* 11:25 - [Amine Mhedhbi](https://amine.io/) - Towards Multimodal Database Management Systems
+  * Affliation: Polytechnique Montréal
+  * As language models become widely accessible, organizations are investing in software systems that retrieve and reason over large, semantically rich data for scientific and business workflows.  These data sources are often heterogeneous and multimodal. Approximately 80% of enterprise data is unstructured, and much of it remains untapped. Despite growing investment, implementing these workflows remains engineering-heavy and costly, requiring specialized expertise. Developers are forced to make many low-level execution decisions and rely on loosely coupled systems connected by hand-written orchestration scripts. This hinders adoption, especially among small and medium-sized enterprises and government agencies.
+
+To address these challenges, I believe a new class of data systems is needed: multimodal database management systems (DBMSes). These data systems would tightly fuse analytics with AI-integrated prediction and reasoning. They will sit atop repositories of raw data spanning tables, documents, images, and audio. In this talk, I focus on giving a broad overview of the needed capabilities and the research challenges towards making multimodal DBMSes mature and usable.
 
 * 11:50 - [Nadia Nahar](https://scholar.google.com/citations?user=VuRv3BYAAAAJ&hl=en) - Bridging the Knowledge Boundaries: Enabling Early Collaboration Between Model and Product Teams with LLM Assistants
   * Affliation: Carnegie Mellon University

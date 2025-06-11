@@ -33,7 +33,12 @@ Note that you **do not have to register for SEMLA to attend SEMTL**.
   * Affliation: Polytechnique Montréal
   * Abstract: In this talk, I will show how we can integrate formal methods with software engineering techniques to build trustworthy autonomous systems. My work and research vision have three objectives: (1) specify what trustworthiness means for autonomous systems; (2) validate systems against those specifications; and (3) enable self-adaptation so that systems evolve until they satisfy the specifications.
 
-* 10:25 - Lightning talks
+* 10:25 - Lightning talks - 3 minutes each
+  * Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB - Anas Dorbani, Polytechnique Montréal
+  * MonoEmbed: LLM Representations for Monolith-to-Microservice Decomposition - Khaled Sellami, Université Laval
+  * Extracting Microservices from Monolithic Systems using Deep RL - Khaled Sellami, Université Laval
+  * Unveiling Kubernetes Misconfigurations: Empirical Analysis and Improved Detection Approaches for Cloud-Native Infrastructures - Mostafa Anouar Ghorab, Université Laval
+  * Online Self-Supervised Multimodal Vision Transformers for First-Person Human Action Recognition - Armin Nabaei, Université de Sherbrooke
 
 * 10:40 - _Coffee break_
 
@@ -49,7 +54,12 @@ Note that you **do not have to register for SEMLA to attend SEMTL**.
   * Affliation: Carnegie Mellon University
   * Abstract: Turning machine learning (ML) models into successful products is notoriously challenging. The challenges extend far beyond building accurate models: successful ML products require seamless integration with software systems, continuous monitoring, safeguarding against failures, and navigating ethical, regulatory, and operational concerns. These tasks demand collaboration between data science and software engineering teams—teams that often speak different languages and operate with distinct priorities that can create friction and misunderstandings. In this talk, I’ll go over why simply “throwing models over the fence” to engineers does not work and highlight the collaboration challenges in ML product development. I will share practical strategies and tools for fostering early, effective teamwork between model and product teams. In particular, I will demonstrate how large language models (LLMs) can bridge communication gaps—from generating shared stories to offering real-time feedback. I will present several interventions, including boundary objects to negotiate and document model requirements, carefully crafted stories that encourage engagement with responsible AI principles, and collaborative policies for explainable AI. All these interventions aim to empower model and product teams to help themselves and work together more effectively to deliver ML products that succeed in real-world settings. 
 
-* 12:15 - Lightning talks
+* 12:15 - Lightning talks - 3 minutes each
+  * DoomArena: A framework for Testing AI Agents Against Evolving Security Threats - Léo Boisvert, MILA, Polytechnique Montréal, ServiceNow Research
+  * Towards Reliable and Trustworthy AI Systems in Software Engineering: A Literature Review on Miscommunication in Human-AI Interaction - Huizi Hao, Queen's University
+  * CodeChat: A Large Dataset of Conversations Between Programmers and Large Language Models for Understanding Use Cases and Code Quality Issues - Suzhen Zhong, Queen's University 
+  * LLMs for Public Sector Compliance: Automating BABA Reviews with BERT and LLaMA - Qadri H Shaheen, University of Maryland
+  * AI-Driven Bidding Decisions: Enhancing Competitive Construction Strategies with Machine Learning - Qadri H Shaheen, University of Maryland
 
 * 12:30 - Social event
   * For the social event, we will eat lunch with all SEMLA attendees

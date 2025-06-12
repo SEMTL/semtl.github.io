@@ -9,7 +9,7 @@ event_date: 2025-06-19
 date:       2025-05-15
 ---
 
-A meeting of the SEMTL community will be held on **Thursday, June 19th, 2025, starting at 09:00**. It will take place at **Polytechnique Montréal**, **room M-1510** in the Pavilions Lassonde. Coffee and pastries will be available during the meeting.
+A meeting of the SEMTL community will be held on **Thursday, June 19th, 2025, starting at 09:00**. It will take place at **Polytechnique Montréal**, **room A-416** in the Pavilion Principale (see map below). Coffee and pastries will be available during the meeting.
 
 This edition of SEMTL takes place during the third day of the [Software Engineering for Machine Learning Applications (SEMLA) symposium](https://semla.polymtl.ca/).
 
@@ -85,7 +85,7 @@ Polytechnique Montréal
 2500 chemin de Polytechnique
 ```
 
-We will be in the building marked '1' on this map:
+We will be in the building marked '2' on this map:
 <img src="http://www.polymtl.ca/sites/amigow2020.polymtl.ca/files/plancampus700px_en.png" alt="polymtl_access" style="width:100%;"/><br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.262521741103!2d-73.61756962349068!3d45.5047937170378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc919f2a9fc4d71%3A0xda267ca95684133e!2sPolytechnique%20Montr%C3%A9al!5e0!3m2!1sen!2sca!4v1747514635976!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -67,7 +67,7 @@ Note that you **do not have to register for SEMLA to attend SEMTL**.
   * Otherwise, **please bring a lunch, or there is a (good) cafeteria available**
 
 * Starting at 13:30 - Tutorials
-  * SEMTL attendees are warmly invited to attend the hands-on tutorials taking place at SEMLA
+  * SEMTL attendees are warmly invited to attend the hands-on tutorials taking place at SEMLA (for free, no registration required)
   * Please see [https://semla.polymtl.ca/tutorials/](https://semla.polymtl.ca/tutorials/) for the details
     * **Hands-on Tutorial on Quantum Software Engineering and Research**
     * **From Metrics to Misbehavior: Hands-on with Dynamic Evaluation of LLM Code Generation**

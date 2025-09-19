@@ -49,9 +49,9 @@
   url: https://michalis.famelis.info/
   keywords: model-driven engineering, formal methods, empirical software engineering
 
-- name: Bordeleau, Françis
+- name: Bordeleau, Francis
   visible: true
-  img: https://www.etsmtl.ca/getmedia/8b040eea-46dd-4ec7-ae37-bd74a6c5e595/francis-bordeleau-ets?width=690&height=460&ext=.jpg
+  img: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=e6K5rvMAAAAJ&citpid=1
   university: École de Technologie Supérieure
   url: https://www.linkedin.com/in/francis-bordeleau-b2aa273/
   keywords: model-based engineering, open source
@@ -83,7 +83,7 @@
   url: http://www.ece.concordia.ca/~abdelw
   keywords: AIOps, Software Tracing and Logging, Anomaly Detection, Software Engineering, Model-Driven Engineering
 
-- name: Oakes, Bentley James
+- name: Oakes, Bentley
   visible: true
   university: Polytechnique Montreal
   img: https://bentleyjoakes.github.io/assets/images/BentleyOakes-headshot.jpg

@@ -23,16 +23,16 @@
 
 - name: Sahraoui, Houari
   visible: true
-  img: http://www.iro.umontreal.ca/~sahraouh/photo_diro.jpg
+  img: https://www.iro.umontreal.ca/~sahraouh/photo_diro.jpg
   university: Université de Montréal
-  url: http://www.iro.umontreal.ca/~sahraouh/
+  url: https://www.iro.umontreal.ca/~sahraouh/
   keywords: software engineering, model-driven engineering, SBSE, software visualization, model transformation
 
 - name: Syriani, Eugène
   visible: true
-  img: http://www-labs.iro.umontreal.ca/~syriani/cside/img/DIRO%20-%20Eugene%20Syriani.jpg
+  img: https://www-labs.iro.umontreal.ca/~syriani/cside/img/DIRO%20-%20Eugene%20Syriani.jpg
   university: Université de Montréal
-  url: http://www-ens.iro.umontreal.ca/~syriani/
+  url: https://www.iro.umontreal.ca/~syriani/
   keywords: model-driven engineering, model transformation, simulation
 
 - name: Robillard, Martin
@@ -86,12 +86,12 @@
 - name: Oakes, Bentley
   visible: true
   university: Polytechnique Montreal
-  img: https://bentleyjoakes.github.io/assets/images/BentleyOakes-headshot.jpg
-  url: https://bentleyjoakes.github.io
+  img: https://bentleyoakes.com/assets/img/BentleyOakes-headshot.jpg
+  url: https://bentleyoakes.com/
   keywords: digital twins, cyber-physical system verification, machine learning, model-driven engineering
 
 - name: Galasso-Carbonnel, Jessie
-  visible: true
+  visible: false
   university: McGill University
   img: https://jgalasso.github.io/photo.png
   url: https://jgalasso.github.io/

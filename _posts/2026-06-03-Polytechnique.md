@@ -6,7 +6,7 @@ tags: 		[Polytechnique]
 subtitle:  	2026-06-03
 category:   meeting
 event_date: 2026-06-03
-date:       2026-05-15
+date:       2026-04-15
 ---
 
 A meeting of the SEMTL community will be held on **Thursday, June 3rd, 2026**. It will take place at **Polytechnique Montréal**. Coffee and pastries will be available during the meeting.
@@ -20,7 +20,7 @@ Please RSVP using [Eventbrite](https://www.eventbrite.ca/e/semla-2026-tickets-19
 
 ### Program
 
-* To come
+* **To be confirmed**
 
 * 12:30 - Social event
   * For the social event, we will eat lunch with all SEMLA attendees
